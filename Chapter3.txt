@@ -1,1 +1,21 @@
 It was the spring of hope, it was the winter of despair.
+
+
+git init ----------> Initialing git on localy
+
+git add FileName --------> add file in git respositories
+
+git commit -m "Message if you want that commit" ---------> push file on git
+
+git log ----------> gives hashcode information about commit
+
+git add .  --------> if you want to upload all file at a time
+
+git checkout fileName -------- if you want to changes are undo
+
+
+-------------------------------------------------------------
+
+git remote add origin URLrepository  ----------> when ever you want to upload your local git to github 
+
+git push -u origin master --------- final push method and uploding start
